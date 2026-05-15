@@ -1,14 +1,14 @@
 # LAB-14-Bypass-Root-Detection-sur-Android-Techniques-Dynamiques-avec-Frida-Objection-et-Hooks-Natif
 
-OS: Windows, Microsoft Windows NT 10.0.26200.0
-Python: Python 3.14.3
-Modèle Android: sdk_gphone64_x86_64 via AVD Pixel_6
-Version Android: 16, SDK 36
-Architecture: x86_64
-Package cible exact: owasp.mstg.uncrackable1
-Activité: sg.vantagepoint.uncrackable1.MainActivity
-Frida: 17.9.1
-ADB device: emulator-5554 device
+* OS: Windows, Microsoft Windows NT 10.0.26200.0
+* Python: Python 3.14.3
+* Modèle Android: sdk_gphone64_x86_64 via AVD Pixel_6
+* Version Android: 16, SDK 36
+* Architecture: x86_64
+* Package cible exact: owasp.mstg.uncrackable1
+* Activité: sg.vantagepoint.uncrackable1.MainActivity
+* Frida: 17.9.1
+* ADB device: emulator-5554 device
 
 # Votre OS (Windows/macOS/Linux) et la version de Python
 
